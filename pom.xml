@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>java.test</groupId>
-	<artifactId>tomcat_heroku</artifactId>
+	<artifactId>expenses_db</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tomcat_heroku Maven Webapp</name>
+	<name>expenses_db Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -26,7 +26,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>tomcat_heroku</finalName>
+		<finalName>expenses_db</finalName>
 		<plugins>
 			<plugin>
 			  <groupId>org.apache.tomcat.maven</groupId>

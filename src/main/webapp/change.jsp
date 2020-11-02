@@ -16,7 +16,7 @@
 	<br> 以下から変更できます。
 	<br>
 	<br>
-	<form action="/tomcat_heroku/Edit" method="POST">
+	<form action="/expenses_db/Edit" method="POST">
 
 		ID:
 		<%=shain.getId()%>（変更不可） 

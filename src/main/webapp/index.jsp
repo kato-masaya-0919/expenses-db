@@ -14,7 +14,7 @@
 	<br>
 	</p>
 
-	<form action="/tomcat_heroku/Search" method="POST">
+	<form action="/expenses_db/Search" method="POST">
 
 		ID: 
 		<input type="text" name="id"> 
@@ -45,7 +45,7 @@
 	<br> 以下から登録できます。
 	<br>
 	<br>
-	<form action="/tomcat_heroku/Edit" method="POST">
+	<form action="/expenses_db/Edit" method="POST">
 		ID: 
 		<input type="text" name="id"> 
 		名前: 
