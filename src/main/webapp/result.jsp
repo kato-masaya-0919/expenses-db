@@ -19,7 +19,7 @@
 	<br>
 	<br>
 
-	<a href="/index.jsp">トップページに戻る</a>
+	<a href="/index.html">トップページに戻る</a>
 
 
 </body>
